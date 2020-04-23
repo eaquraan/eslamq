@@ -140,3 +140,29 @@ body{
 		margin-top: 32px;
 	}
 }
+/*
+-------------------------------------------------------------------------------
+2. ABOUT
+-------------------------------------------------------------------------------
+*/
+/*about section*/
+#about {
+  margin-top: 250px; 
+}
+#about .about-btn {
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  animation-delay: 1s;
+  text-align: center; 
+}
+#about .about-btn .btn {
+  margin: 7px 7px;
+  background: #06A763;
+  color: #ffffff;
+  width: 180px;
+  border-radius: 2px;
+}
+#about .about-btn .btn:hover {
+  background: #046c40; 
+}
